@@ -1,0 +1,7 @@
+file_scanner.py
+setup.py
+file_scanner.egg-info/PKG-INFO
+file_scanner.egg-info/SOURCES.txt
+file_scanner.egg-info/dependency_links.txt
+file_scanner.egg-info/entry_points.txt
+file_scanner.egg-info/top_level.txt

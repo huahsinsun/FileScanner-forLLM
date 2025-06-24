@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: file-scanner
+Version: 1.0.0
+Summary: 扫描文件夹并合并文件内容的工具
+Requires-Python: >=3.6

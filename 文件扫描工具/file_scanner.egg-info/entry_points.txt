@@ -1,0 +1,2 @@
+[console_scripts]
+filescan = file_scanner:main
