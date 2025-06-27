@@ -1,3 +1,4 @@
+README.md
 file_scanner.py
 setup.py
 file_scanner.egg-info/PKG-INFO
